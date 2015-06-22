@@ -1,4 +1,5 @@
 # Abhi's Turing School
+I wanted to guide my own learning so pick and chose lesson plans from Turing School. So grateful for the work done by those at Turing School!
 
 #### Ruby
 * [Frames, Call Stacks, and Exceptions](ruby_01-object_oriented_programming_with_ruby/frames_call_stacks_and_exceptions.markdown)
