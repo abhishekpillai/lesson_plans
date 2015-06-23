@@ -19,7 +19,7 @@ I wanted to guide my own learning so pick and chose lesson plans from Turing Sch
 * [Building a gem](electives/building-a-gem)
 
 #### Javascript
-* [Introduction to javascript](ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
+* ~~[Introduction to javascript](ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)~~
 * [Module 3 - jQuery DOM traversal and Manipulation](ruby_03-professional_rails_applications/jquery_dom_traversal_and_manipulation.md)
 * [Understanding the asset pipeline](ruby_03-professional_rails_applications/understanding_the_asset_pipeline.markdown)
 * [Working with AJAX](ruby_03-professional_rails_applications/working_with_ajax.markdown)
